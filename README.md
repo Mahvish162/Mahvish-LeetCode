@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -35,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mahvish162/Mahvish-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
